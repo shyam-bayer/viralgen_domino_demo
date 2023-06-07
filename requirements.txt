@@ -1,0 +1,5 @@
+# -e /repos/mvda_rnd
+dash
+dash-bootstrap-components
+flask-caching
+dash_daq
